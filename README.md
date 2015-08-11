@@ -1,6 +1,6 @@
 ## EasyHLS ##
 
-**EasyPusher**是什么？
+**EasyHLSr**是什么？
 
 EasyHLS是EasyDarwin开源流媒体社区开发的一款HLS打包库，接口非常简单，只需要传入打包的文件名、切片存放的目录、打包间隔以及切片数，EasyHLS库就能轻松将H264+AAC的流媒体切片，提供给WEB服务器进行HLS流媒体发布，我们提供了两套操作示例：
 
