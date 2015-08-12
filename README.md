@@ -8,6 +8,9 @@ EasyHLS是EasyDarwin开源流媒体社区开发的一款HLS打包库，接口非
 
 - **EasyHLS_SDK**：将SDK回调的数据进行HLS打包切片，示例中的SDK是我们EasyCamera开源摄像机的配套库，EasyCamera开源摄像机硬件可以在：[https://easydarwin.taobao.com/](https://easydarwin.taobao.com/ "EasyCamera")购买，EasyCamera SDK及配套源码可在 [http://www.easydarwin.org](http://www.easydarwin.org "EasyDarwin") 或者 [https://github.com/EasyDarwin/EasyCamera](https://github.com/EasyDarwin/EasyCamera "EasyCamera")获取到；
 
+- **EasyDarwin**：您也可以参考EasyDarwin中EasyHLSModule对EasyHLS库的调用方法，详细请看：[https://github.com/EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin "EasyDarwin")；
+
+
 
 ### 调用过程
 ![](http://www.easydarwin.org/skin/easydarwin/images/easyhls20150811.png)
